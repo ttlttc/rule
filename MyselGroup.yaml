@@ -3,6 +3,9 @@ payload:
   - DST-PORT,22
   - DST-PORT,32641
   
+  # Syncthing
+  - DST-PORT,22000
+  
   # COD Mobile
   - DOMAIN,gameloop.com
   - DOMAIN-SUFFIX,gameloop.com

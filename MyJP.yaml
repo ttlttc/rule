@@ -7,7 +7,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,googlevideo
   
-  - # google fcm推送
+  - # google fcm push
   - DST-PORT,5228
   
   - # google photo upload
@@ -177,5 +177,4 @@ payload:
   - DOMAIN-SUFFIX,firehunt.com
   - DOMAIN,domains.google
   - DOMAIN-SUFFIX,domains.google
-
   

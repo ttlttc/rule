@@ -1,4 +1,5 @@
 payload:
-  # sublime禁止更新
+  # sublime disable update
   - DOMAIN,license.sublimehq.com
   - DOMAIN,www.sublimetext.com
+  

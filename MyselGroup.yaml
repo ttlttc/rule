@@ -27,7 +27,7 @@ payload:
   - DOMAIN-KEYWORD,steam
   - DOMAIN-SUFFIX,epicgames.com
   
-  # 币安(没需求,有需要再换下面....)
+  # Binance temp
   # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Binance
   - DOMAIN-SUFFIX,binance.com,selGroup
   - DOMAIN,binance.com,selGroup
@@ -41,11 +41,11 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN,duckduckgo.com
   
-  # 浪费流量
+  # Waste bandwidth
   - DOMAIN,jiyou.cloud
   
   ##################
-  #   IP测试站点    #
+  #  IP test sites #
   ##################
   - DOMAIN-SUFFIX,staticfile.org
   - DOMAIN,staticfile.org
@@ -61,6 +61,5 @@ payload:
   - DOMAIN,ipip.ee
   - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN,ipw.cn
-
-
+  
   

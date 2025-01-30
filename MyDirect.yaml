@@ -8,19 +8,19 @@ payload:
   - DOMAIN-SUFFIX,bigda.com
   - DOMAIN-SUFFIX,yystatic.com
 
-  # fanatical RMB结算货币
+  # fanatical pay with CNY
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN,fanatical.com
   
-  # Steam wechat支付跳转
+  # Steam wechat payment
   - DOMAIN,smart2pay.com
   - DOMAIN-SUFFIX,smart2pay.com
-  # Steam 修仙小屋
+  # Steam xiuxianxiaowu
   - IP-CIDR,107.155.88.234/32
   # Steam egg surprise
   - DOMAIN,china-grpc.egg-surprise.online
   - DOMAIN,china.egg-surprise.online
-  # steam cdn 分流?
+  # steam cdn?
   # https://github.com/xiaorouji/openwrt-passwall/discussions/2117
   - DOMAIN,steamserver.net
   - DOMAIN-SUFFIX,steamserver.net

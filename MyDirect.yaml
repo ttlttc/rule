@@ -30,3 +30,6 @@ payload:
   - DOMAIN,0daydown.com
   - DOMAIN-SUFFIX,2dland.cn
   
+  # deepseek
+  - DOMAIN-SUFFIX,deepseek.com
+  

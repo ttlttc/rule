@@ -33,3 +33,5 @@ payload:
   # deepseek
   - DOMAIN-SUFFIX,deepseek.com
   
+  - DOMAIN-SUFFIX,right.com.cn
+  
